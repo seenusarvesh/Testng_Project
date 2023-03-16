@@ -9,3 +9,5 @@ Testng creation start up here,
 4. Add Mobile number,
 
 5.Add mail address.
+
+6.Testng Annotation added here
