@@ -1,0 +1,11 @@
+Telegram creation start up here,
+
+1. Initiate the user id and password creation,
+
+2. Add profile details,
+
+3.Add profile photo,
+
+4. Add Mobile number,
+
+5.Add mail address.
