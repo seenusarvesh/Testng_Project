@@ -1,4 +1,4 @@
-Telegram creation start up here,
+Testng creation start up here,
 
 1. Initiate the user id and password creation,
 
